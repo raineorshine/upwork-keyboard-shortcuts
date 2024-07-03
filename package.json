@@ -1,0 +1,17 @@
+{
+  "name": "upwork-keyboard-shortcuts",
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Add keyboard shortcuts to Upwork",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.0.0-beta.23",
+    "prettier": "^3.3.2",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1"
+  }
+}
